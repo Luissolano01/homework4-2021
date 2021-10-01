@@ -93,13 +93,11 @@ td{
 
 .colhead{
   color: #FFFFFF;
-  margin-right: auto;
-  margin-left: auto;       /*should use relative, absolute, fixed, etc instead??*/
-  margin-top: auto;
-  margin-bottom: auto;
   
-  align-items: center;      /* added this to align */
   
+  vertical-align:middle;     /* added this to align */
+  
+  text-align:center;
   min-width: 125px;        /*column-width or min-width ?*/
   padding-top: 10px;
   padding-right: 10px;
