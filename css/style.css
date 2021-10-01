@@ -97,7 +97,8 @@ td{
   margin-left: auto;       /*should use relative, absolute, fixed, etc instead??*/
   margin-top: auto;
   margin-bottom: auto;
-
+  text-align: center;      /* added this to align */
+  
   min-width: 125px;        /*column-width or min-width ?*/
   padding-top: 10px;
   padding-right: 10px;
